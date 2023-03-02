@@ -419,3 +419,501 @@ top: 3501px;
 background: #082135;
 border-radius: 45px;
 }
+.footer{
+    position: absolute;
+width: 1920px;
+height: 311px;
+left: 0px;
+top: 3715px;
+
+background: #0F0F0F;
+}
+.footerlogo{
+    position: absolute;
+width: 121px;
+height: 116px;
+left: 907px;
+top: 3722px;
+}
+.footertext{
+    position: absolute;
+width: 813px;
+height: 44px;
+left: 553px;
+top: 3845px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #C0C0C0;
+}
+.hashtag{
+    position: absolute;
+width: 110px;
+height: 22px;
+left: 907px;
+top: 3899px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.twitterfooter{
+    position: absolute;
+
+    left: 826px;
+    top: 3948px;
+}
+.discordfooter{
+    position: absolute;
+
+left: 888px;
+top: 3948px;
+}
+.facebookfooter{
+    position: absolute;
+
+    left: 956px;
+    top: 3948px;
+}
+.youtubefooter{
+    position: absolute;
+
+    left: 1011px;
+    top: 3948px;
+}
+.vkfooter{
+    position: absolute;
+
+    left: 1073px;
+    top: 3948px;
+    
+}
+.copyright{
+    position: absolute;
+width: 258px;
+height: 17px;
+left: 833px;
+top: 4005px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #C0C0C0;
+}
+.newsline{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 710px;
+top: 3693px;
+
+border: 2px solid #333232;
+}
+.iconmail{
+    position: absolute;
+width: 23.25px;
+height: 18.25px;
+left: 1180px;
+top: 3668px;
+
+}
+.mailinput{
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 710px;
+    top: 3665px;
+    font-size:16px;
+    outline: none;
+    font-family: 'Montserrat';
+font-style: normal;
+    background: none;
+    color: white;
+    border: none;
+}
+.name1{
+    position: absolute;
+
+height: 29px;
+left: 333px;
+top: 1557px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name2{
+    position: absolute;
+
+height: 29px;
+left: 600px;
+top: 1557px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name3{
+    position: absolute;
+
+    height: 29px;
+    left: 867px;
+    top: 1557px;
+    
+    font-family: 'Montserrat';
+font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;    
+}
+.name4{
+    
+position: absolute;
+
+height: 29px;
+left: 1135px;
+top: 1557px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name5{
+    position: absolute;
+
+height: 29px;
+left: 1401px;
+top: 1557px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.realname1{
+    position: absolute;
+    width: 89px;
+    height: 17px;
+    left: 333px;
+    top: 1591px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.realname2{
+   
+position: absolute;
+width: 145px;
+height: 17px;
+left: 600px;
+top: 1591px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+ 
+}
+.realname3{
+    position: absolute;
+width: 83px;
+height: 17px;
+left: 867px;
+top: 1591px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.realname4{
+    position: absolute;
+width: 138px;
+height: 17px;
+left: 1135px;
+top: 1591px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.realname5{
+    position: absolute;
+width: 123px;
+height: 17px;
+left: 1401px;
+top: 1591px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos1{
+    position: absolute;
+    width: 57px;
+    height: 17px;
+    left: 333px;
+    top: 1624px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+.pos2{
+    position: absolute;
+width: 57px;
+height: 17px;
+left: 600px;
+top: 1624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos3{
+    position: absolute;
+width: 57px;
+height: 17px;
+left: 867px;
+top: 1624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos4{
+    position: absolute;
+width: 61px;
+height: 17px;
+left: 1135px;
+top: 1624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos5{
+    position: absolute;
+width: 65px;
+height: 17px;
+left: 1401px;
+top: 1624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.vkcard1{
+    position: absolute;
+    width: 20px;
+    height: 13px;
+    left: 333px;
+    top: 1683px;  
+}
+.vkcard2{
+    position: absolute;
+    width: 20px;
+    height: 13px;
+    left: 600px;
+    top: 1683px;
+    
+}
+.vkcard3{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 867px;
+top: 1683px;
+}
+.vkcard4{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 1135px;
+top: 1683px;
+}
+.vkcard5{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 1401px;
+top: 1683px;
+}
+.facebookcard1{
+    position: absolute;
+    width: 7px;
+    height: 14px;
+    left: 365px;
+    top: 1683px;  
+}
+.facebookcard2{
+    position: absolute;
+    width: 7px;
+    height: 14px;
+    left: 632px;
+    top: 1683px;
+}
+.facebookcard3{
+    position: absolute;
+    width: 7px;
+    height: 14px;
+    left: 899px;
+    top: 1683px;   
+}
+.facebookcard4{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 1167px;
+top: 1683px;
+}
+.facebookcard5{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 1433px;
+top: 1683px;
+
+}
+.youtubecard1{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 385px;
+top: 1685px;
+}
+.youtubecard2{
+    position: absolute;
+    width: 17px;
+    height: 11px;
+    left: 652px;
+    top: 1685px;
+}
+.youtubecard3{
+    position: absolute;
+    width: 17px;
+    height: 11px;
+    left: 919px;
+    top: 1685px;
+}
+.youtubecard4{
+    
+position: absolute;
+width: 17px;
+height: 11px;
+left: 1187px;
+top: 1685px;
+}
+.youtubecard5{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 1453px;
+top: 1685px;
+}
