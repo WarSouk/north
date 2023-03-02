@@ -1,0 +1,421 @@
+*{
+    margin:0px;
+    overflow-x:hidden;
+}
+body{
+    background: #17161A;
+}
+.northindexlogo{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 213px;
+height: 30px;
+left: 100px;
+top: 25px;
+}
+.goindex{
+    /* главная */
+
+
+width: 76px;
+height: 22px;
+position: absolute;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+top: 29px;
+left:860px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+text-decoration: none;
+
+}
+.goacademy{
+    /* главная */
+
+
+
+height: 22px;
+position: absolute;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+top: 29px;
+left:1000px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+text-decoration: none;
+
+}
+.vertigo{
+    position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image.png)
+}
+.northwelcome{
+    position: absolute;
+    width: 652px;
+    height: 628px;
+    left: 634px;
+    top: 226px;
+     
+}
+.ourteam{
+    position: absolute;
+width: 339px;
+height: 66px;
+left: 791px;
+top: 1103px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.magiskimg{
+    position: absolute;
+width: 216px;
+height: 324px;
+left: 318px;
+top: 1222px;
+
+}
+.konfigimg{
+    position: absolute;
+width: 216px;
+height: 324px;
+left: 585px;
+top: 1222px;
+
+}
+.cajunbimg{
+    position: absolute;
+width: 216px;
+height: 324px;
+left: 852px;
+top: 1222px;
+}
+.mslimg{
+    position: absolute;
+width: 216px;
+height: 324px;
+left: 1120px;
+top: 1222px;
+}
+.aizyimg{
+    
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 1386px;
+    top: 1222px;
+}
+.magiskbg{
+    position: absolute;
+width: 216px;
+height: 155px;
+left: 318px;
+top: 1546px;
+
+background: #111011;
+}
+.konfigbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 585px;
+    top: 1546px;
+    
+    background: #111011;
+}
+.cajunbbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 853px;
+    top: 1546px;
+    
+    background: #111011;
+}
+.mslbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 1120px;
+    top: 1546px;
+    
+    background: #111011;
+}
+.aizybg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 1386px;
+    top: 1546px;
+    
+    background: #111011;
+}
+.konfigline{
+    position: absolute;
+    width: 214px;
+    height: 0px;
+    left: 585px;
+    top: 1678px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.magiskline{
+    position: absolute;
+width: 214px;
+height: 0px;
+left: 318px;
+top: 1678px;
+
+border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.cajunbline{
+    position: absolute;
+    width: 214px;
+height: 0px;
+left: 852px;
+top: 1678px;
+
+border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.mslline{
+    
+position: absolute;
+width: 214px;
+height: 0px;
+left: 1120px;
+top: 1678px;
+
+border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.aizyline{
+    position: absolute;
+    width: 214px;
+height: 0px;
+left: 1386px;
+top: 1678px;
+
+border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.gallery{
+    position: absolute;
+width: 241px;
+height: 66px;
+left: 840px;
+top: 1804px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.gallery1{
+    position: absolute;
+width: 400px;
+height: 296px;
+left: 318px;
+top: 1905px;
+
+}
+.gallery2{
+    position: absolute;
+    width: 400px;
+    height: 296px;
+    left: 760px;
+    top: 1909px;
+    
+
+}
+.gallery3{
+    position: absolute;
+    width: 400px;
+    height: 296px;
+    left: 1202px;
+    top: 1909px;
+    
+
+}
+.gallery4{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 318px;
+    top: 2236px;
+
+}
+.gallery5{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 765px;
+    top: 2236px;
+
+}
+.gallery6{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 1212px;
+    top: 2236px;
+    
+
+}
+.gallery7{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 318px;
+    top: 2567px;
+
+}
+.gallery8{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 765px;
+    top: 2567px;
+
+}
+.gallery9{
+    position: absolute;
+    width: 390px;
+    height: 296px;
+    left: 1212px;
+    top: 2567px;
+}
+.products{
+    position: absolute;
+width: 503px;
+height: 66px;
+left: 708px;
+top: 2964px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.product1{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 395px;
+    top: 3127px;
+    
+}
+.product2{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 840px;
+    top: 3127px;
+     
+}
+.product3{
+    position: absolute;
+width: 240px;
+height: 240px;
+left: 1284px;
+top: 3127px;
+}
+.tshirtprice{
+    position: absolute;
+width: 249px;
+height: 58px;
+left: 384px;
+top: 3382px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.mouseprice{
+    position: absolute;
+width: 323px;
+height: 58px;
+left: 794px;
+top: 3382px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.jersyprice{
+    position: absolute;
+width: 419px;
+height: 58px;
+left: 1197px;
+top: 3382px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.buybtn{
+
+position: absolute;
+width: 145px;
+height: 55px;
+left: 888px;
+top: 3501px;
+
+background: #082135;
+border-radius: 45px;
+}
