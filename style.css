@@ -1751,7 +1751,8 @@ color: #C0C0C0;
     display:none;
 }
 }
-@media screen and (max-width: 834px) {
+
+@media only screen and (min-width: 834px ) {
 .ipadvertigo{
     position: absolute;
     width: 834px;

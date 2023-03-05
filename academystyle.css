@@ -757,6 +757,10 @@ display: none;
 .northindexlogo{
     display: none;
 }
+
+.ipadbacklogo{
+    display: none;
+}
 .gofrom{
     display: none;
 }
@@ -1345,8 +1349,9 @@ height: 630px;
 left: 47px;
 top: 2865px;
 z-index: -1;
-display: initial;
+display: none;
 }
+
 .footer{
     position: absolute;
 width: 390px;
@@ -1458,7 +1463,7 @@ color: #C0C0C0;
     display:none;
 }
 }
-@media screen and (max-width: 834px) {
+@media screen and (min-width: 834px) {
 .northindexlogo{
     position: absolute;
     width: 213px;
