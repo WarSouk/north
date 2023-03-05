@@ -5,6 +5,7 @@
 body{
     background: #17161A;
 }
+
 .northindexlogo{
     display: flex;
 flex-direction: row;
@@ -753,8 +754,12 @@ display: none;
     display: none;
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (min-device-width: 390px) and (max-device-width: 391px) { 
 .northindexlogo{
+    display: none;
+}
+
+.ipadbacklogo{
     display: none;
 }
 .gofrom{
@@ -1345,8 +1350,9 @@ height: 630px;
 left: 47px;
 top: 2865px;
 z-index: -1;
-display: initial;
+display: none;
 }
+
 .footer{
     position: absolute;
 width: 390px;
@@ -1458,7 +1464,7 @@ color: #C0C0C0;
     display:none;
 }
 }
-@media screen and (max-width: 834px) {
+@media screen and (min-width: 834px) and (max-width: 835px) { 
 .northindexlogo{
     position: absolute;
     width: 213px;
@@ -1543,7 +1549,7 @@ border-radius: 8px;
     position: absolute;
 width: 605px;
 height: 607.31px;
-left: 229px;
+left: 227px;
 top: 382px;
 display: initial;
 }

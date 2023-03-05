@@ -926,7 +926,7 @@ top: 1685px;
 .ipadvertigo{
     display: none;
 }
-@media screen and (max-width: 390px) {
+@media screen and (min-device-width: 390px) and (max-device-width: 391px) { 
 .northindexlogo{
     position: absolute;
 width: 209px;
@@ -1751,7 +1751,8 @@ color: #C0C0C0;
     display:none;
 }
 }
-@media screen and (max-width: 834px) {
+
+@media screen and (min-width: 834px) and (max-width: 835px) { 
 .ipadvertigo{
     position: absolute;
     width: 834px;
