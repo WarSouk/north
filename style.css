@@ -923,6 +923,9 @@ top: 1685px;
 .buybtnmob{
     display: none;
 }
+.ipadvertigo{
+    display: none;
+}
 @media screen and (max-width: 390px) {
 .northindexlogo{
     position: absolute;
@@ -1746,5 +1749,868 @@ color: #C0C0C0;
 }
 .newsline{
     display:none;
+}
+}
+@media screen and (max-width: 834px) {
+.ipadvertigo{
+    position: absolute;
+    width: 834px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    display: initial;
+    z-index: -1;
+}
+.vertgo{
+    display:none;
+}
+.northindexlogo{
+    position: absolute;
+width: 111px;
+height: 30px;
+left: 36px;
+top: 25px;
+
+}
+.northwelcome{
+    position: absolute;
+width: 674px;
+height: 650px;
+left: 80px;
+top: 215px;
+}
+.goacademy{
+    position: absolute;
+width: 117px;
+height: 22px;
+left: 696px;
+top: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.goindex{
+    display: none;
+}
+.ourteam{
+    position: absolute;
+width: 339px;
+height: 66px;
+left: 248px;
+top: 1103px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.magiskimg{
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 42px;
+    top: 1192px;
+}
+.konfigimg{
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 309px;
+    top: 1192px;
+}
+.cajunbimg{
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 576px;
+    top: 1192px;
+}
+.mslimg{
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 163px;
+    top: 1694px;
+}
+.aizyimg{
+    position: absolute;
+    width: 216px;
+    height: 324px;
+    left: 455px;
+    top: 1694px;
+}
+.magiskbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 42px;
+    top: 1516px;
+    
+    background: #111011;
+}
+.konfigbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 309px;
+    top: 1516px;
+    
+    background: #111011;
+}
+.cajunbbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 577px;
+    top: 1516px;
+    
+    background: #111011;
+}
+.mslbg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 163px;
+    top: 2018px;
+    
+    background: #111011;
+}
+.aizybg{
+    position: absolute;
+    width: 216px;
+    height: 155px;
+    left: 455px;
+    top: 2018px;
+    
+    background: #111011;
+}
+.magiskline{
+    position: absolute;
+    width: 216px;
+    height: 0px;
+    left: 42px;
+    top: 1648px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.konfigline{
+    position: absolute;
+    width: 216px;
+    height: 0px;
+    left: 309px;
+    top: 1648px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.cajunbline{
+    position: absolute;
+    width: 216px;
+    height: 0px;
+    left: 576px;
+    top: 1648px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.mslline{
+    position: absolute;
+    width: 216px;
+    height: 0px;
+    left: 163px;
+    top: 2150px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.aizyline{
+    position: absolute;
+    width: 216px;
+    height: 0px;
+    left: 455px;
+    top: 2150px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.32);
+}
+.name1{
+    position: absolute;
+    width: 94px;
+    height: 29px;
+    left: 57px;
+    top: 1527px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.name2{
+    position: absolute;
+width: 88px;
+height: 29px;
+left: 324px;
+top: 1527px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name3{
+    position: absolute;
+width: 99px;
+height: 29px;
+left: 591px;
+top: 1527px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name4{
+    position: absolute;
+width: 51px;
+height: 29px;
+left: 178px;
+top: 2029px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name5{
+    position: absolute;
+width: 56px;
+height: 29px;
+left: 470px;
+top: 2029px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.realname1{
+    position: absolute;
+    width: 83px;
+    height: 17px;
+    left: 57px;
+    top: 1561px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.realname2{
+    position: absolute;
+width: 134px;
+height: 17px;
+left: 324px;
+top: 1561px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.realname3{
+    position: absolute;
+width: 77px;
+height: 17px;
+left: 591px;
+top: 1561px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.realname4{
+    position: absolute;
+    width: 130px;
+    height: 17px;
+    left: 178px;
+    top: 2063px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+      
+}
+.realname5{
+    position: absolute;
+width: 113px;
+height: 17px;
+left: 470px;
+top: 2063px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.pos1{
+    position: absolute;
+    width: 52px;
+    height: 17px;
+    left: 57px;
+    top: 1594px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+.pos2{
+    position: absolute;
+width: 52px;
+height: 17px;
+left: 324px;
+top: 1594px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos3{
+    position: absolute;
+width: 52px;
+height: 17px;
+left: 591px;
+top: 1594px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos4{
+    position: absolute;
+width: 56px;
+height: 17px;
+left: 178px;
+top: 2096px;
+
+font-family: 'Montserrat';
+font-style: normal;;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pos5{
+    position: absolute;
+width: 60px;
+height: 17px;
+left: 470px;
+top: 2096px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.vkcard1{
+    position: absolute;
+    width: 20px;
+    height: 13px;
+    left: 57px;
+    top: 1653px;
+}
+.vkcard2{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 324px;
+top: 1653px;
+}
+.vkcard3{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 591px;
+top: 1653px;
+}
+.vkcard4{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 178px;
+top: 2155px;
+}
+.vkcard5{
+    position: absolute;
+width: 20px;
+height: 13px;
+left: 470px;
+top: 2155px;
+}
+.facebookcard1{
+    position: absolute;
+    width: 7px;
+    height: 14px;
+    left: 89px;
+    top: 1653px;
+}
+.facebookcard2{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 356px;
+top: 1653px;
+}
+.facebookcard3{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 623px;
+top: 1653px;
+}
+.facebookcard4{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 210px;
+top: 2155px;
+
+}
+.facebookcard5{
+    position: absolute;
+width: 7px;
+height: 14px;
+left: 502px;
+top: 2155px;
+}
+.youtubecard1{
+    position: absolute;
+    width: 17px;
+    height: 11px;
+    left: 109px;
+    top: 1655px;
+}
+.youtubecard2{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 376px;
+top: 1655px;
+}
+.youtubecard3{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 643px;
+top: 1655px;
+
+}
+.youtubecard4{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 230px;
+top: 2155px;
+}
+.youtubecard5{
+    position: absolute;
+width: 17px;
+height: 11px;
+left: 522px;
+top: 2155px;
+}
+.gallery{
+    position: absolute;
+width: 241px;
+height: 66px;
+left: 297px;
+top: 2213px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.gallery1{
+    position: absolute;
+    width: 356px;
+    height: 263.44px;
+    left: 18px;
+    top: 2298px;
+}
+.gallery2{
+    position: absolute;
+    width: 356px;
+    height: 263.44px;
+    left: 460px;
+    top: 2302px;  
+}
+.gallery3{
+    display:none;
+}
+.gallery4{
+    position: absolute;
+width: 346px;
+height: 262.61px;
+left: 18px;
+top: 2629px;
+}
+.gallery5{
+    position: absolute;
+width: 346px;
+height: 262.61px;
+left: 465px;
+top: 2629px;
+}
+.gallery6{
+    display:none;
+}
+.gallery7{
+    position: absolute;
+width: 346px;
+height: 262.61px;
+left: 18px;
+top: 2960px;
+}
+.gallery8{
+    position: absolute;
+width: 346px;
+height: 262.61px;
+left: 465px;
+top: 2960px;
+}
+.gallery9{
+    display:none;
+}
+.products{
+    position: absolute;
+width: 503px;
+height: 66px;
+left: 166px;
+top: 3263px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.product1{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 302px;
+    top: 3369px;
+}
+.product2{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 301px;
+    top: 3734px;
+}
+.product3{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 294px;
+    top: 4099px;
+}
+.tshirtprice{
+    position: absolute;
+width: 249px;
+height: 58px;
+left: 291px;
+top: 3624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.mouseprice{
+    position: absolute;
+width: 323px;
+height: 58px;
+left: 255px;
+top: 3989px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+}
+.jersyprice{
+    
+position: absolute;
+width: 419px;
+height: 58px;
+left: 207px;
+top: 4354px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+}
+.buybtn{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+
+position: absolute;
+width: 200px;
+height: 68px;
+left: 317px;
+top: 4500px;
+
+background: #082135;
+border-radius: 45px;
+}
+.footer{
+    
+position: absolute;
+width: 834px;
+height: 387px;
+left: 0px;
+top: 4737px;
+
+background: #0F0F0F;
+}
+.footerlogo{
+    position: absolute;
+width: 121px;
+height: 117px;
+left: 357px;
+top: 4742px;
+}
+.footertext{
+    position: absolute;
+    width: 564px;
+    height: 81px;
+    left: 134px;
+    top: 4866px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #C0C0C0;
+    
+}
+.hashtag{
+    position: absolute;
+    width: 114px;
+    height: 27px;
+    left: 360px;
+    top: 4954px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.twitterfooter{
+    position: absolute;
+width: 35px;
+
+left: 291px;
+top: 5021px;
+}
+.discordfooter{
+    position: absolute;
+width: 35px;
+
+left: 350px;
+top: 5021px;
+
+}
+.facebookfooter{
+    position: absolute;
+width: 16px;
+
+left: 409px;
+top: 5021px;
+}
+.youtubefooter{
+    position: absolute;
+width: 35px;
+
+left: 449px;
+top: 5021px;
+}
+.vkfooter{
+    position: absolute;
+width: 35px;
+
+left: 508px;
+top: 5021px;
+}
+.copyright{
+    position: absolute;
+width: 285px;
+height: 23px;
+left: 273px;
+top: 5094px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #C0C0C0;
+}
+.newsline{
+    position: absolute;
+    width: 500px;
+    height: 0px;
+    left: 167px;
+    top: 4687px;
+    
+    border: 2px solid #333232;
+}
+.mailinput{
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 168px;
+    top: 4660px;
+    font-size:16px;
+    outline: none;
+    font-family: 'Montserrat';
+font-style: normal;
+    background: none;
+    color: white;
+    border: none;
+}
+.iconmail{
+    position: absolute;
+width: 23.25px;
+height: 18.44px;
+left: 631px;
+top: 4662px;
+
 }
 }
