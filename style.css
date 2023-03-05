@@ -926,7 +926,7 @@ top: 1685px;
 .ipadvertigo{
     display: none;
 }
-@media screen and (min-device-width: 390px) and (max-device-width: 391px) { 
+@media screen and (min-device-width: 320px) and (max-device-width: 420px) { 
 .northindexlogo{
     position: absolute;
 width: 209px;
@@ -2480,7 +2480,7 @@ border-radius: 45px;
 .footer{
     
 position: absolute;
-width: 834px;
+width: 100%;
 height: 387px;
 left: 0px;
 top: 4737px;
