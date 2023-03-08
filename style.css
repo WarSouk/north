@@ -1947,7 +1947,7 @@ color: #FFFFFF;
 }
 .name1{
     position: absolute;
-    width: 94px;
+
     height: 29px;
     left: 57px;
     top: 1527px;
@@ -1964,7 +1964,7 @@ color: #FFFFFF;
 }
 .name2{
     position: absolute;
-width: 88px;
+
 height: 29px;
 left: 324px;
 top: 1527px;
@@ -1981,7 +1981,7 @@ color: #FFFFFF;
 }
 .name3{
     position: absolute;
-width: 99px;
+
 height: 29px;
 left: 591px;
 top: 1527px;
@@ -1998,7 +1998,7 @@ color: #FFFFFF;
 }
 .name4{
     position: absolute;
-width: 51px;
+
 height: 29px;
 left: 178px;
 top: 2029px;
@@ -2015,7 +2015,7 @@ color: #FFFFFF;
 }
 .name5{
     position: absolute;
-width: 56px;
+
 height: 29px;
 left: 470px;
 top: 2029px;
@@ -2032,7 +2032,7 @@ color: #FFFFFF;
 }
 .realname1{
     position: absolute;
-    width: 83px;
+
     height: 17px;
     left: 57px;
     top: 1561px;
@@ -2049,7 +2049,7 @@ color: #FFFFFF;
 }
 .realname2{
     position: absolute;
-width: 134px;
+
 height: 17px;
 left: 324px;
 top: 1561px;
@@ -2066,7 +2066,7 @@ color: #FFFFFF;
 }
 .realname3{
     position: absolute;
-width: 77px;
+
 height: 17px;
 left: 591px;
 top: 1561px;
@@ -2083,7 +2083,7 @@ color: #FFFFFF;
 }
 .realname4{
     position: absolute;
-    width: 130px;
+
     height: 17px;
     left: 178px;
     top: 2063px;
@@ -2101,7 +2101,7 @@ color: #FFFFFF;
 }
 .realname5{
     position: absolute;
-width: 113px;
+
 height: 17px;
 left: 470px;
 top: 2063px;
@@ -2119,7 +2119,7 @@ color: #FFFFFF;
 }
 .pos1{
     position: absolute;
-    width: 52px;
+
     height: 17px;
     left: 57px;
     top: 1594px;
@@ -2137,7 +2137,7 @@ color: #FFFFFF;
 }
 .pos2{
     position: absolute;
-width: 52px;
+
 height: 17px;
 left: 324px;
 top: 1594px;
@@ -2154,7 +2154,7 @@ color: #FFFFFF;
 }
 .pos3{
     position: absolute;
-width: 52px;
+
 height: 17px;
 left: 591px;
 top: 1594px;
@@ -2171,7 +2171,7 @@ color: #FFFFFF;
 }
 .pos4{
     position: absolute;
-width: 56px;
+
 height: 17px;
 left: 178px;
 top: 2096px;
@@ -2188,7 +2188,7 @@ color: #FFFFFF;
 }
 .pos5{
     position: absolute;
-width: 60px;
+
 height: 17px;
 left: 470px;
 top: 2096px;

@@ -141,7 +141,6 @@ top: 365px;
 }
 .biglogo{
     position: absolute;
-width: 1152px;
 height: 1089px;
 left: 818px;
 top: 5px;
@@ -634,9 +633,7 @@ color: #FFFFFF;
 }
 .northlogoback2{
     position: absolute;
-width: 962px;
-height: 928px;
-left: 1098px;
+left: 1135px;
 top: 2715px;
 }
 .footer{
@@ -2135,7 +2132,7 @@ height: 630px;
 top: 3456px;
 display: initial;
 
-left: 435px;
+left: 437px;
 z-index: -1;
 }
 }
